@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="60dp"
+    android:height="60dp"
+    android:viewportWidth="60"
+    android:viewportHeight="60">
+    <group
+        android:pivotX="30"
+    android:pivotY="30"
+    android:scaleX="0.4"
+    android:scaleY="0.4"
+        android:name="logo_group"
+    >
+
+    <path
+      android:pathData="m60,60h-60v-60h60l-30.6,29.6z">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:centerX="58.012"
+          android:centerY="2.461"
+          android:gradientRadius="68.737"
+          android:type="radial">
+        <item android:offset="0.003" android:color="#FFE44857"/>
+        <item android:offset="0.469" android:color="#FFC711E1"/>
+        <item android:offset="1" android:color="#FF7F52FF"/>
+      </gradient>
+    </aapt:attr>
+
+  </path>
+</group>
+</vector>

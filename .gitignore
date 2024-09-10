@@ -1,0 +1,14 @@
+/static-splash-screens/.gradle/
+/static-splash-screens/.idea/
+/static-splash-screens/.kotlin/
+/static-splash-screens/local.properties
+/static-splash-screens/README.md
+/static-splash-screens/composeApp/build/
+/.idea/
+/animated-splash-screens/.idea/
+/animated-splash-screens/build/
+/animated-splash-screens/local.properties
+/animated-splash-screens/README.md
+/animated-splash-screens/composeApp/build/
+/animated-splash-screens/.kotlin/
+/animated-splash-screens/.gradle/
