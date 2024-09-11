@@ -19,7 +19,7 @@ struct ContentView: View {
             if isHomeRootScreen {
                 ComposeView()
             } else {
-                Image("kotlin")
+                Image(.kotlin)
                     .resizable()
                     .aspectRatio(contentMode: .fit)
                     .scaleEffect(scaleAmount)
